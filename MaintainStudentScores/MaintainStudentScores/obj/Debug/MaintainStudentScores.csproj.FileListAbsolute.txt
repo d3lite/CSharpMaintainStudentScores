@@ -1,0 +1,13 @@
+c:\users\david\onedrive\documents\visual studio 2015\Projects\MaintainStudentScores\MaintainStudentScores\bin\Debug\MaintainStudentScores.exe.config
+c:\users\david\onedrive\documents\visual studio 2015\Projects\MaintainStudentScores\MaintainStudentScores\bin\Debug\MaintainStudentScores.exe
+c:\users\david\onedrive\documents\visual studio 2015\Projects\MaintainStudentScores\MaintainStudentScores\bin\Debug\MaintainStudentScores.pdb
+c:\users\david\onedrive\documents\visual studio 2015\Projects\MaintainStudentScores\MaintainStudentScores\obj\Debug\MaintainStudentScores.csprojResolveAssemblyReference.cache
+c:\users\david\onedrive\documents\visual studio 2015\Projects\MaintainStudentScores\MaintainStudentScores\obj\Debug\MaintainStudentScores.AddNewStudent.resources
+c:\users\david\onedrive\documents\visual studio 2015\Projects\MaintainStudentScores\MaintainStudentScores\obj\Debug\MaintainStudentScores.frmMain.resources
+c:\users\david\onedrive\documents\visual studio 2015\Projects\MaintainStudentScores\MaintainStudentScores\obj\Debug\MaintainStudentScores.Properties.Resources.resources
+c:\users\david\onedrive\documents\visual studio 2015\Projects\MaintainStudentScores\MaintainStudentScores\obj\Debug\MaintainStudentScores.csproj.GenerateResource.Cache
+c:\users\david\onedrive\documents\visual studio 2015\Projects\MaintainStudentScores\MaintainStudentScores\obj\Debug\MaintainStudentScores.exe
+c:\users\david\onedrive\documents\visual studio 2015\Projects\MaintainStudentScores\MaintainStudentScores\obj\Debug\MaintainStudentScores.pdb
+C:\Users\David\Desktop\javaprograms\MaintainStudentScores (2)\MaintainStudentScores\MaintainStudentScores\bin\Debug\MaintainStudentScores.exe.config
+C:\Users\David\Desktop\javaprograms\MaintainStudentScores (2)\MaintainStudentScores\MaintainStudentScores\obj\Debug\MaintainStudentScores.exe
+C:\Users\David\Desktop\javaprograms\MaintainStudentScores (2)\MaintainStudentScores\MaintainStudentScores\obj\Debug\MaintainStudentScores.pdb
